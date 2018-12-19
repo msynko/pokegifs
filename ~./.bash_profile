@@ -1,0 +1,1 @@
+export GIPHY_KEY="YOUR_KEY_HERE"
